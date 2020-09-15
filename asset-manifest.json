@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chronicle-wellness/static/css/main.4e9f4f5c.chunk.css",
-    "main.js": "/chronicle-wellness/static/js/main.2c891b57.chunk.js",
-    "main.js.map": "/chronicle-wellness/static/js/main.2c891b57.chunk.js.map",
+    "main.js": "/chronicle-wellness/static/js/main.ac81cf4a.chunk.js",
+    "main.js.map": "/chronicle-wellness/static/js/main.ac81cf4a.chunk.js.map",
     "runtime-main.js": "/chronicle-wellness/static/js/runtime-main.ddcb8a6a.js",
     "runtime-main.js.map": "/chronicle-wellness/static/js/runtime-main.ddcb8a6a.js.map",
     "static/js/2.9af99c57.chunk.js": "/chronicle-wellness/static/js/2.9af99c57.chunk.js",
     "static/js/2.9af99c57.chunk.js.map": "/chronicle-wellness/static/js/2.9af99c57.chunk.js.map",
     "index.html": "/chronicle-wellness/index.html",
-    "precache-manifest.4978f28eb2d7cdfa0af171d111ad786c.js": "/chronicle-wellness/precache-manifest.4978f28eb2d7cdfa0af171d111ad786c.js",
+    "precache-manifest.ac245f9adc2561425ae27f7ae1de7d74.js": "/chronicle-wellness/precache-manifest.ac245f9adc2561425ae27f7ae1de7d74.js",
     "service-worker.js": "/chronicle-wellness/service-worker.js",
     "static/css/main.4e9f4f5c.chunk.css.map": "/chronicle-wellness/static/css/main.4e9f4f5c.chunk.css.map",
     "static/js/2.9af99c57.chunk.js.LICENSE.txt": "/chronicle-wellness/static/js/2.9af99c57.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ddcb8a6a.js",
     "static/js/2.9af99c57.chunk.js",
     "static/css/main.4e9f4f5c.chunk.css",
-    "static/js/main.2c891b57.chunk.js"
+    "static/js/main.ac81cf4a.chunk.js"
   ]
 }
