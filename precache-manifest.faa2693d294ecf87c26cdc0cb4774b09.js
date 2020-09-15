@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "436e118ea72cf9da81e35317e5c7bf50",
+    "revision": "cd1d45255e743e1db26dda81fb9d8561",
     "url": "/chronicle-wellness/index.html"
   },
   {
-    "revision": "49945acae70562831831",
+    "revision": "bd6bf013b0f8b749efb8",
     "url": "/chronicle-wellness/static/css/main.4e9f4f5c.chunk.css"
   },
   {
-    "revision": "991b1b70bb1ff34de9a2",
-    "url": "/chronicle-wellness/static/js/2.9af99c57.chunk.js"
+    "revision": "5f4bb5c5a047d5c39d72",
+    "url": "/chronicle-wellness/static/js/2.cd21c0f2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/chronicle-wellness/static/js/2.9af99c57.chunk.js.LICENSE.txt"
+    "url": "/chronicle-wellness/static/js/2.cd21c0f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49945acae70562831831",
-    "url": "/chronicle-wellness/static/js/main.ac81cf4a.chunk.js"
+    "revision": "bd6bf013b0f8b749efb8",
+    "url": "/chronicle-wellness/static/js/main.de21e25e.chunk.js"
   },
   {
     "revision": "91c95aaa3def90efa63c",
