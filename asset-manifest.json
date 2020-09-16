@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/chronicle-wellness/static/css/main.4e9f4f5c.chunk.css",
-    "main.js": "/chronicle-wellness/static/js/main.de21e25e.chunk.js",
-    "main.js.map": "/chronicle-wellness/static/js/main.de21e25e.chunk.js.map",
+    "main.css": "/chronicle-wellness/static/css/main.5bdafa48.chunk.css",
+    "main.js": "/chronicle-wellness/static/js/main.9bb9eeff.chunk.js",
+    "main.js.map": "/chronicle-wellness/static/js/main.9bb9eeff.chunk.js.map",
     "runtime-main.js": "/chronicle-wellness/static/js/runtime-main.ddcb8a6a.js",
     "runtime-main.js.map": "/chronicle-wellness/static/js/runtime-main.ddcb8a6a.js.map",
-    "static/js/2.cd21c0f2.chunk.js": "/chronicle-wellness/static/js/2.cd21c0f2.chunk.js",
-    "static/js/2.cd21c0f2.chunk.js.map": "/chronicle-wellness/static/js/2.cd21c0f2.chunk.js.map",
+    "static/css/2.fb346933.chunk.css": "/chronicle-wellness/static/css/2.fb346933.chunk.css",
+    "static/js/2.e6d5ba0d.chunk.js": "/chronicle-wellness/static/js/2.e6d5ba0d.chunk.js",
+    "static/js/2.e6d5ba0d.chunk.js.map": "/chronicle-wellness/static/js/2.e6d5ba0d.chunk.js.map",
     "index.html": "/chronicle-wellness/index.html",
-    "precache-manifest.faa2693d294ecf87c26cdc0cb4774b09.js": "/chronicle-wellness/precache-manifest.faa2693d294ecf87c26cdc0cb4774b09.js",
+    "precache-manifest.4e99226e3b1fe22f4b543aa80d88a4c9.js": "/chronicle-wellness/precache-manifest.4e99226e3b1fe22f4b543aa80d88a4c9.js",
     "service-worker.js": "/chronicle-wellness/service-worker.js",
-    "static/css/main.4e9f4f5c.chunk.css.map": "/chronicle-wellness/static/css/main.4e9f4f5c.chunk.css.map",
-    "static/js/2.cd21c0f2.chunk.js.LICENSE.txt": "/chronicle-wellness/static/js/2.cd21c0f2.chunk.js.LICENSE.txt"
+    "static/css/2.fb346933.chunk.css.map": "/chronicle-wellness/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.5bdafa48.chunk.css.map": "/chronicle-wellness/static/css/main.5bdafa48.chunk.css.map",
+    "static/js/2.e6d5ba0d.chunk.js.LICENSE.txt": "/chronicle-wellness/static/js/2.e6d5ba0d.chunk.js.LICENSE.txt",
+    "static/media/app-store.png": "/chronicle-wellness/static/media/app-store.95fb742c.png",
+    "static/media/google-play.png": "/chronicle-wellness/static/media/google-play.70c9d2d7.png",
+    "static/media/iphone-calendar.png": "/chronicle-wellness/static/media/iphone-calendar.fca192c8.png",
+    "static/media/iphone-charts.png": "/chronicle-wellness/static/media/iphone-charts.8dcbb897.png",
+    "static/media/iphone-home.png": "/chronicle-wellness/static/media/iphone-home.2da509dd.png",
+    "static/media/iphone-today.png": "/chronicle-wellness/static/media/iphone-today.f672e2c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ddcb8a6a.js",
-    "static/js/2.cd21c0f2.chunk.js",
-    "static/css/main.4e9f4f5c.chunk.css",
-    "static/js/main.de21e25e.chunk.js"
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.e6d5ba0d.chunk.js",
+    "static/css/main.5bdafa48.chunk.css",
+    "static/js/main.9bb9eeff.chunk.js"
   ]
 }
